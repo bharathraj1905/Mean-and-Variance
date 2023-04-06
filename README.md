@@ -75,8 +75,8 @@ print("The Variance of arrival from feeder is %.3f "%var)
 ```
 # Output!
 
-[prob1 output](https://user-images.githubusercontent.com/121490575/230278159-3c007f44-24ca-4333-8b59-629b2173a040.png)
 
+![prob1 output](https://user-images.githubusercontent.com/121490575/230278316-67592da4-bed7-48b0-b2f8-611b4e426476.png)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
